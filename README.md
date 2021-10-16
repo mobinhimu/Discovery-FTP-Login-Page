@@ -1,1 +1,1 @@
-# Discover-FTP-Login-Page
+# Discovery-FTP-Login-Page
